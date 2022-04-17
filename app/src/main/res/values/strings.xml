@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Pr11</string>
+    <string name="username">abc123@xyz.com</string>
+    <string name="password">test_password</string>
+</resources>
